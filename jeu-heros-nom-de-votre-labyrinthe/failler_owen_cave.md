@@ -4,7 +4,7 @@ Vous vous trouvez dans un lieu sombre et humide nommée la cave. Ici sont entrep
 et les boissons utilisés par les établissements de restaurations.
 
 
-*IMAGE*
+![](Cave.jpg)
 
 [Aller vers le Café](nadjib_rahal_Café.md)
 
