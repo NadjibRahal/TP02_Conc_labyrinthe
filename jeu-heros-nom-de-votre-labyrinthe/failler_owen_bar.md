@@ -6,10 +6,8 @@ N'hésitez pas à y déguster nos boissons issues de l'agriculture locale !
 
 *IMAGE*
 
-Aller vers la place Jaude :
-
-Aller vers le Crous :
-
+[Aller vers la place Jaude](walid_babaaissa_place_de_jaude.md)
+[Aller vers le Crous](walid_babaaissa_crous.md)
 Aller vers la Piscine :
 
 
