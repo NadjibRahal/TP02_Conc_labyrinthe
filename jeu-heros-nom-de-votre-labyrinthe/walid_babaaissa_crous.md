@@ -1,8 +1,11 @@
-Vous vous trouvez dans la salle de départ du labyrinthe. Vous voyez trois chemins devant vous :
+Aller chez vous, il n'y a pas de place. Il faut voir avec l'assistante sociale.
 
-    Aller a Bar
-    Aller au Game over
-    Aller au Salle de départ
+
+
+- [Aller a l'assistante sociale](image.png)
+- [Aller au Bar](failler_owen_bar.md)
+- [Aller au Place de départ](idex.md)
+
 
 
 
