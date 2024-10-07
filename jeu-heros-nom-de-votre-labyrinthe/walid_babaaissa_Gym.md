@@ -5,7 +5,9 @@ Vous cherchez un endroit où vous entraîner dans une ambiance conviviale et à 
 🌟 Pourquoi choisir notre salle ?
 
 Tarifs attractifs : Profitez de nos abonnements moins chers que ceux de la salle de Ishak !
+
 Matériel de qualité : Nous disposons d'équipements modernes et bien entretenus pour vous aider à atteindre vos objectifs.
+
 Ambiance chaleureuse : Rejoignez notre communauté et motivez-vous ensemble !
 
 🕒 Horaires d'ouverture :
