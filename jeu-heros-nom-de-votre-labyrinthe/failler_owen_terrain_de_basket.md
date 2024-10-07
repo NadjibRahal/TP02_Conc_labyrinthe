@@ -7,10 +7,13 @@ répérage pour les recruteurs de l'équipe nationale !
 
 *IMAGE*
 
-Aller vers l'EUPI :
+[Aller vers l'EUPI]
+(nadjib_rahal_EUPI.md)
 
-Aller vers le Gym d'Ishak :
+[Aller vers le Gym d'Ishak]
+(ishak_sadallah_Gym.md)
 
-Aller vers le terrain de Street Workout :
+[Aller vers le terrain de Street Workout]
+(ishak_saddalah_SWP.md)
 
 Auteur : Owen Failler
