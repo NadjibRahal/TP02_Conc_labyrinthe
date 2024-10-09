@@ -1,5 +1,5 @@
 
-# Welcome to Resturant
+# Welcome to Restaurant
 
 "Bienvenue au restaurant ! Quels plats préférez-vous parmi ces trois propositions :
 - [Félicitations, tu as trouvé la sortie !  ](game_over.md)
