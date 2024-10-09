@@ -1,6 +1,6 @@
 "Bienvenue dans notre espace cuisine, où la santé et le goût se rencontrent !"
 
-(<ishak's kitchen.jpg>).jpg)
+(ishak's kitchen.jpg)
 
 
 - [Aller a EUPI](nadjib_rahal_EUPI.md)
