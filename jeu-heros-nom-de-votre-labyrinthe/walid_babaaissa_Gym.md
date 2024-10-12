@@ -18,7 +18,7 @@ Dimanche : 10h00 - 16h00
 
 Venez nous rendre visite et bénéficiez d'une séance d'essai gratuite ! 💪
 
-    
+![](gym_oualid.jpg)
     
 - [Aller au Restaurent](nadjib_rahal_RESTURANT.md)
 - [Aller au salle d'arrivée](salle_arr.md)
