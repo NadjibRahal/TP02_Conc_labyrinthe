@@ -11,6 +11,6 @@ répérage pour les recruteurs de l'équipe nationale !
 
 [Aller vers le Gym d'Ishak](ishak_sadallah_Gym.md)
 
-[Aller vers le terrain de Street Workout](ishak_saddalah_SWP.md)
+[Aller vers le terrain de Street Workout](ishak_sadallah_SWP.md)
 
 Auteur : Owen Failler
