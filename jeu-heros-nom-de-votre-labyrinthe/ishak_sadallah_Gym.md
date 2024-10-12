@@ -12,7 +12,7 @@ Nous manquez pas cette chance de faire partie de notre communauté de fitness �
 
 ![Winter is coming 🥶❄️](ishak_gym.png)
 
-- [Aller à Ishak'Street Workout](ishak_sadallah_SWP.md)
+- [Aller à Ishak's Street Workout](ishak_sadallah_SWP.md)
 
 - [Aller au stade de basket](failler_owen_terrain_de_basket.md)
 
