@@ -10,6 +10,7 @@ Horraires flexbiles pour s'adapter à votre emploi du temps🌚🌝
 
 Nous manquez pas cette chance de faire partie de notre communauté de fitness 🥵🔥
 
+![Winter is coming 🥶❄️](ishak_gym.png)
 
 - [Aller à Ishak'Street Workout](ishak_sadallah_SWP.md)
 
