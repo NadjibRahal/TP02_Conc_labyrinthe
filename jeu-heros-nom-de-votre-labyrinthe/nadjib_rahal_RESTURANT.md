@@ -5,7 +5,7 @@
 
 ![](R.jpg)
 - [Félicitations, tu as trouvé la sortie !  ](<game over.md>)
-- [Aller au salle de sport pour faire le Gym ](oualid_babaaissa_Gym.md)
+- [Aller au salle de sport pour faire le Gym ](walid_babaaissa_Gym.md)
 
 
 
